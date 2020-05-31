@@ -1,7 +1,7 @@
 # Jump-Boy.github.io
 **声明：本人的GithubPage 静态资源服务（don't use）**
 
-该库作为本人静态资源服务，可通过https://Jump-Boy.github.io即可访问，机制是利用GitHubPage（GitHub免费提供的静态资源托管）。如果您有兴趣并想要了解GitHubPage的使用，可以点击[这里](https://blog.humh.cn/?p=519)，或许能帮助到您。
+该库作为本人静态资源服务，可通过https://Jump-Boy.github.io 即可访问，机制是利用GitHubPage（GitHub免费提供的静态资源托管）。如果您有兴趣并想要了解GitHubPage的使用，可以点击[这里](https://blog.humh.cn/?p=519)，或许能帮助到您。
 
 现该仓库提供静态服务如下：
 
